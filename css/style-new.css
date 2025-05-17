@@ -350,7 +350,7 @@ ul.nptabbs{display:none}
 @media (max-width:575.98px){
 .footer{margin-bottom:52px;padding: 0 0 15px}
 .footerLink ul li:nth-child(2) a:after{content:none;display:none}
-.footerLink ul li a{display:inline-block;color:#fff;font-weight:500;padding:3px 15px;position:relative;text-decoration:none;font-size:14px}
+.footerLink ul li a{display:inline-block;color:#fff;font-weight:500;padding:3px 18px;position:relative;text-decoration:none;font-size:14px}
 }
 
 /*==========================================*/
