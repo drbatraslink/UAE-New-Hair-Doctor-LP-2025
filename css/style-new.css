@@ -217,8 +217,8 @@ header{background:#fff;position:fixed;top:0;z-index:1000!important}
 .treatment_all_comm_div.our_doctors_slider_section{padding-top:40px}
 .treatment_all_comm_div.our_doctors_slider_section .doctors_slider .owl-dots{display:none}
 .treatment_all_comm_div.our_doctors_slider_section .doctors_slider .owl-item{background-color:#f2f2f2;border-radius:16px;text-align:center;padding:30px 15px}
-.treatment_all_comm_div.our_doctors_slider_section .doctors_slider .owl-item .doctors_name{font-size:21px;color:#173d5b;font-weight:600;margin-bottom:15px;margin-top:20px}
-.treatment_all_comm_div.our_doctors_slider_section .doctors_slider .owl-item .doctors_designation{color:#212121;font-size:18px;font-weight:600;margin-bottom:10px}
+.treatment_all_comm_div.our_doctors_slider_section .doctors_slider .owl-item .doctors_name{font-size:21px;color:#173d5b;font-weight: 700;margin-bottom: 0px;margin-top:20px}
+.treatment_all_comm_div.our_doctors_slider_section .doctors_slider .owl-item .doctors_designation{color:#212121;font-size: 17px;font-weight:600;margin-bottom: 5px;margin-top: 15px;}
 .treatment_all_comm_div.our_doctors_slider_section .doctors_slider .owl-item .doctors_para{font-size:16px;color:#212121;margin-bottom:5px}
 .treatment_all_comm_div.our_doctors_slider_section .doctors_slider .owl-item img{width:150px;height:150px;margin:auto;background-color:#d8c495;border:7px solid #e8e0cd}
 .treatment_all_comm_div .doctors_slider .owl-prev,.treatment_all_comm_div.our_doctors_slider_section .doctors_slider .owl-next{position:absolute;top:-5px;height:100%}
